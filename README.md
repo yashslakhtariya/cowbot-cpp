@@ -45,9 +45,8 @@ Presently, Dhenu can :
 ~~~
 git clone https://github.com/yashslakhtariya/cowbot.git
 ~~~
-2. Run install script :
+2. After going to **script folder (cd *path-to-script*)**, run install script :
 ~~~
-cd cowbot
 chmod +x cowbot-install.sh
 ./cowbot-install.sh
 ~~~
@@ -58,17 +57,13 @@ cowbot-setup
 
 It will ask for your user password for installing dependencies. If no error occurs, cowbot is ready. Run ```cowbot``` command anytime to get your assistant!
 
+#### Note : cowbot won't work properly without its dependencies. So step-3 is must! 
+
 ## Uninstallation Instructions :
-1. give permission to uninstall script :
+1. After going to **script folder (cd *path-to-script*)**, run the script :
 ~~~
-cd cowbot
 chmod +x cowbot-uninstall.sh
-~~~
-2. Run the script :
-~~~
 ./cowbot-uninstall.sh
 ~~~
 
-#### Note : cowbot won't work properly without its dependencies. So step-3 is must! 
-***
 For issues contact me @ `yashlakhtariya1010@gmail.com`
