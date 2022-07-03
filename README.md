@@ -58,6 +58,17 @@ cowbot-setup
 
 It will ask for your user password for installing dependencies. If no error occurs, cowbot is ready. Run ```cowbot``` command anytime to get your assistant!
 
+## Uninstallation Instructions :
+1. give permission to uninstall script :
+~~~
+chmod +x cowbot-uninstall.sh
+~~~
+2. Run the script :
+~~~
+cd cowbot
+./cowbot-uninstall.sh
+~~~
+
 #### Note : cowbot won't work properly without its dependencies. So step-3 is must! 
 ***
 For issues contact me @ `yashlakhtariya1010@gmail.com`
