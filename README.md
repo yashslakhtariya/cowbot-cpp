@@ -1,7 +1,7 @@
 # COWBOT  
-AI Linux Assistant named COWBOT written in C++
+## AI Linux Assistant written in C++
 
-Cowbot is extremely easy to use. Just type specific KEYWORDS in your sentence to perform operations. Name of the cowbot is DHENU. She is extremely powerful and she can help you save time and manage your Linux machine very easily
+Cowbot is extremely easy to use. Just type specific KEYWORDS in your sentence to perform operations. Name of the cowbot is DHENU. She is extremely powerful and she can help you save time and manage your Linux machine very easily.
 
 Presently, Dhenu can :
 
@@ -49,12 +49,13 @@ git clone https://github.com/yashslakhtariya/cowbot.git
 ~~~
 cd cowbot && ./cowbot-install.sh
 ~~~
-
-#### Note : cowbot won't work properly without its dependencies. So step-3 is must! 
-
 3. After installation, for initial setup run :
 ~~~
 cowbot-setup
 ~~~
 
 It will ask for your user password for installing dependencies. If no error occurs, cowbot is ready. Run ```cowbot``` command anytime to get your assistant!
+
+#### Note : cowbot won't work properly without its dependencies. So step-3 is must! 
+***
+For issues contact me @ `yashlakhtariya1010@gmail.com`
