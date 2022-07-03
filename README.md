@@ -61,11 +61,11 @@ It will ask for your user password for installing dependencies. If no error occu
 ## Uninstallation Instructions :
 1. give permission to uninstall script :
 ~~~
+cd cowbot
 chmod +x cowbot-uninstall.sh
 ~~~
 2. Run the script :
 ~~~
-cd cowbot
 ./cowbot-uninstall.sh
 ~~~
 
