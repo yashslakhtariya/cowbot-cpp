@@ -4,3 +4,4 @@ chmod +x ~/cowbot/src/cowbot-setup
 sudo mv ~/cowbot/src/* /usr/bin/
 sudo mkdir /usr/share/cowbot
 sudo mv ~/cowbot/cowbot-manual /usr/share/cowbot/
+sudo mv ~/cowbot/img/dhenu.png /usr/share/cowbot/
