@@ -47,7 +47,9 @@ git clone https://github.com/yashslakhtariya/cowbot.git
 ~~~
 2. Run install script :
 ~~~
-cd cowbot && chmod +x cowbot-install.sh && ./cowbot-install.sh
+cd cowbot
+chmod +x cowbot-install.sh
+./cowbot-install.sh
 ~~~
 3. After installation, for initial setup run :
 ~~~
