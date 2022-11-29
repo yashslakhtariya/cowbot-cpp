@@ -43,7 +43,7 @@ Presently, Dhenu can :
 ## Installation Instructions :
 1. Clone cowbot repository :
 ~~~
-git clone https://github.com/yashslakhtariya/cowbot.git
+git clone https://github.com/yashslakhtariya/cowbot-cpp.git
 ~~~
 2. After going to **script folder (cd *path-to-script*)**, run install script :
 ~~~
